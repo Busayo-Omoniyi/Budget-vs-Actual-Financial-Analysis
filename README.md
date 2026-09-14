@@ -1,5 +1,5 @@
 # Busget-vs-Actual-Financial-Analysis
-This project analyzes three years of financial transaction data to compare budgeted amounts against actual spending and identify the departments, expense categories, periods and regions contributing to budget overruns.
+<img width="913" height="516" alt="Executive" src="https://github.com/user-attachments/assets/f93bb47f-8aae-41f9-a5ea-c67adb35bde7" />
 
 **Project Overview**
 
@@ -8,15 +8,15 @@ This project analyzes three years of financial transaction data to compare budge
 Objective
 Transform raw sales data into meaningful business insights through data cleaning, SQL analysis, interactive dashboards, and data storytelling.
 
-Reporting Period:
+**Reporting Period:**
 
 January 2021 – December 2023
 
-Records Analyzed:
+**Records Analyzed:**
 
 10,000
 
-Tools:
+**Tools:**
 
 SQL, Power BI, Excel
 
@@ -50,3 +50,4 @@ Therefore, Positive variance = Overspending
                 Negative variance = Spending below budget
 This convention was used consistently throughout the analysis.
 
+(Key findings in Case study)
