@@ -1,5 +1,6 @@
 # Busget-vs-Actual-Financial-Analysis
-<img width="913" height="516" alt="Executive" src="https://github.com/user-attachments/assets/f93bb47f-8aae-41f9-a5ea-c67adb35bde7" />
+<img width="907" height="509" alt="Executive" src="https://github.com/user-attachments/assets/f47201f1-d323-4cfe-9076-ea5e545b7cdc" />
+
 
 **Project Overview**
 
