@@ -1,4 +1,4 @@
-# Busget-vs-Actual-Financial-Analysis
+# Budget-vs-Actual-Financial-Analysis
 <img width="907" height="509" alt="Executive" src="https://github.com/user-attachments/assets/f47201f1-d323-4cfe-9076-ea5e545b7cdc" />
 
 
